@@ -1,5 +1,5 @@
- # Ignore environment file
- .env
+# Ignore environment file
+.env
 
- # Ignore data
- *.csv
+# Ignore data
+*.csv
